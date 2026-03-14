@@ -1,2 +1,2 @@
-## Just a reminder
-# I used gemini api because it was free
+# Just a reminder
+## I used gemini api because it was free
